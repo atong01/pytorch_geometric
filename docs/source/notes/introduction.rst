@@ -70,7 +70,7 @@ Although the graph has only two edges, we need to define four index tuples to ac
 .. Note::
     You can print out your data object anytime and receive a short information about its attributes and their shapes.
 
-Besides of being a plain old python object, :class:`torch_geometric.data.Data` provides a number of utility functions, *e.g.*:
+Besides being a plain old python object, :class:`torch_geometric.data.Data` provides a number of utility functions, *e.g.*:
 
 .. code-block:: python
 
